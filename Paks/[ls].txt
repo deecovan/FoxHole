@@ -1,0 +1,12 @@
+[ls].txt
+War-WindowsNoEditor.pak
+War-WindowsNoEditor_22_superuber-fantasticalFoxholeSoundMod.pak
+War-WindowsNoEditor_BetterPlayerIcon_Orange.pak
+War-WindowsNoEditor_HelveticaForFoxhole.pak
+War-WindowsNoEditor_ImprovedMapMod_KnightofScience_Edit_v5_2_NoStyles_DarkRdzMulti.pak
+War-WindowsNoEditor_ImprovedMapZoom_KnightofScience_Foxhole_Update_60_v2.pak
+War-WindowsNoEditor_KoV_Full_IconVanilla++_V0511.pak
+War-WindowsNoEditor_TechMatKachingSound.pak
+War-WindowsNoEditor_Vanilla-ItemIcons-FactionSpecificUniforms-TripodTips_U60.0 (1).pak
+War-WindowsNoEditor_Vanilla-ItemIcons-FactionSpecificUniforms-TripodTips_U60.0.pak
+War-WindowsNoEditor_z_CuteCompassNoHours.pak
