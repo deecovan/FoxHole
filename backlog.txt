@@ -1,14 +1,14 @@
 
 ----------------
-9:50 06.10.2025 base need 6.5k_
-base C 2.7 need 4k 					+1
-base BR 1.5 need 1.3k_				.
+14:43 06.10.2025 base need 7.7k__
+base C 5.3 need 4k__				.
+base BR 2.6 need 2.2k__				.
 base BL 1.2 need 1.2k+				.
 
 ----------------
-10:37 06.10.2025 coal need 6.2k_
+14:43 06.10.2025 coal need 6.3k__
 Coal BB 2k need 1.3k_				.
-Coal Fac 1.3k need 2.4k_ 			+1
-Coal Enc Top 1.2 need 1k_ 			.
-Coal Enc Bottom 1.2 need 1.5k_		.
+Coal Fac 2.4k need 2.4k__ 			.
+Coal Enc Top 1.2 need 1.1k_ 		.
+Coal Enc Bottom 1.4 need 1.5k__		.
 
