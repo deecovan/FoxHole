@@ -1,5 +1,8 @@
 # FoxHole GitHub repo 
 
+## Links
+- New Discord link https://discord.gg/V9hsmMm8yv
+
 - New charli_acritia_coal_punk_project.jpg 
 - Need to Update and Screenshot old projects
 
