@@ -2,8 +2,8 @@
 
 ## Cit
 - MSUP - medium wheel of war.
-- Even petroleum is made from MSUP.
 - Whoever has MSUP owns the hex.
+- Even petroleum is made from MSUP.
 
 
 ## Links
