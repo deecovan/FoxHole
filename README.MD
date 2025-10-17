@@ -1,9 +1,9 @@
 # FoxHole GitHub repo 
 
 ## Cit
-- MSUP - medium wheel of war.
-- Whoever has MSUP owns the hex.
-- Even petroleum is made from MSUP.
+- MSUP - central wheel of war.
+- Whoever has MSUP owns the hex. 
+- Even petroleum is made from MSUP. 
 
 
 ## Links
