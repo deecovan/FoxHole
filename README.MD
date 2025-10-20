@@ -4,7 +4,7 @@
 - MSUP - central wheel of war.
 - Whoever has MSUP owns the hex. 
 - Even petroleum is made from MSUP. 
-
+- Taking equipment from a working factory is sabotage. The penalty for sabotage is execution.
 
 ## Links
 - New Discord link https://discord.gg/V9hsmMm8yv
