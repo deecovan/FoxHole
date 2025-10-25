@@ -1,5 +1,8 @@
 # FoxHole GitHub repo 
 
+## Clicker
+- New in 1.12 Alt+S to keeo movin back for trains
+
 ## Cit
 - MSUP - central wheel of war.
 - Whoever has MSUP owns the hex. 
