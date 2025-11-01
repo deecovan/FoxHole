@@ -1,6 +1,9 @@
 # FoxHole GitHub repo 
 
-## Clicker
+## 25.11.01 Clicker wirking.
+- Release forFoxHole.v.25.1017.1.12.exe
+- Need manual than Publish 1.13
+- Publish 1.13
 - New in 1.12 Alt+S to keeo movin back for trains
 
 ## Cit
