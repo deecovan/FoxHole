@@ -1,5 +1,12 @@
 # FoxHole GitHub repo 
 
+## 25.11.04 Charlie Wardens
+- Create 500 squad
+
+## 25.11.01 Clicker wirking.
+- 500 Able Wardens
+- 500 FoxHole Euros Discord link: https://discord.gg/V9hsmMm8yv
+
 ## 25.11.01 Clicker wirking.
 - Release forFoxHole.v.25.1017.1.12.exe
 - Need manual than Publish 1.13
