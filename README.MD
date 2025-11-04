@@ -2,6 +2,7 @@
 
 ## 25.11.04 Charlie Wardens
 - Create 500 squad
+- First Factory in Weather
 
 ## 25.11.01 Clicker wirking.
 - 500 Able Wardens
